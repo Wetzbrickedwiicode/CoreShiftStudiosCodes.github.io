@@ -49,8 +49,8 @@ To sync this bot with your Roblox place, make sure **Enable Studio Access to API
 ## ⚖️ Legal & Compliance
 By utilizing this bot, you agree to comply with Discord's Developer Terms of Service and Roblox's Terms of Use.
 
-* 📄 [Terms of Service](YOUR_TOS_URL_HERE)
-* 🔒 [Privacy Policy](YOUR_PRIVACY_POLICY_URL_HERE)
+* 📄 [Terms of Service](terms.html)
+* 🔒 [Privacy Policy](privacy.html)
 
 ---
 
